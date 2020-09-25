@@ -1,6 +1,7 @@
 # Preliminary Study of Diabetic Retinopathy Classification from Fundus Images using Deep Learning Model
 # APTOS 2019 Blindness Detection
 
+## Notebooks:
 - <b>Data_preprocessing_(FYP 2).ipynb</b>: Image pre-processing  
 - <b>APTOS_(FYP_2_best_solution).ipynb</b>: Architecture for data training with APTOS train and test datasets   
 - <b>APTOS_(FYP_2_best_solution_Messidor_2).ipynb</b>: Same as APTOS_(FYP_2_best_solution).ipynb, but used Messidor-2 dataset to replace APTOS test dataset and some additional evaluations
