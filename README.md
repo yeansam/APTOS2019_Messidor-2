@@ -12,10 +12,13 @@ Link: [APTOS 2019 Blindness Detection Dataset](https://www.kaggle.com/c/aptos201
 - <b>Messidor-2</b>: Further testing (In order to see how does the prediction model performs on test dataset that is from a different source as well as obtain overall accuracy due to the competition no longer accept submission)   
 Link: [Messidor-2 dataset](http://www.adcis.net/en/third-party/messidor2/)
 
-## Implementation platform:
+## Implementation Platform:
 Google Colab with GPU acceleration enabled
 
-## The results:
+## Deep Learning Network Arhitecture:
+DenseNet121
+
+## The Results:
 - 0.9308 Quadratic Weighted Kappa score 
 - Higher than 74% of accuracy on APTOS test dataset (estimated)  
 - 65% of accuracy on Messidor-2 dataset
